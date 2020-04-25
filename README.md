@@ -27,10 +27,6 @@
 - ESL
   - [책](https://web.stanford.edu/~hastie/ElemStatLearn/)
 
-- cs229
-  - *공부*
-- statistical machine learning
-  - *공부*
 - Interpretation machine learning
   - [christophM](https://github.com/christophM/interpretable-ml-book)
 
@@ -42,11 +38,9 @@
   - 밑바닥부터 시작하는 딥러닝 1
   - [kaggle Bengali competition](https://www.kaggle.com/c/bengaliai-cv19) : image classification
 
+- Generative deep learning
+
 - NLP
-  - *공부*
-  - [cs224n 강의](http://web.stanford.edu/class/cs224n/)
-  - 밑바닥부터 시작하는 딥러닝2
-  - 김기현의 자연어 처리 딥러닝 캠프
 
 - 기타 도서
   - 점프투파이썬
