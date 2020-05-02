@@ -39,6 +39,7 @@
   - [kaggle Bengali competition](https://www.kaggle.com/c/bengaliai-cv19) : image classification
 
 - Generative deep learning
+- [1시간만에 GAN 완전정복하기 Youtube 강의](https://www.youtube.com/watch?v=odpjk7_tGY0)
 
 - NLP
 
@@ -51,9 +52,15 @@
   - Git-Github 시작하기
 
 ## Data viz.
-- matplotlib을 이용한 데이터 시각화
-- D3.js
--  Storytelling with data
+- 책
+  - matplotlib을 이용한 데이터 시각화
+  - D3.js
+  -  Storytelling with data
+  - ggplot2
 
 ## Time series
 - [Udemy 수업 간단 정리](https://github.com/minsoo9506/Time-series-analysis/tree/master/udemy_lecture)
+
+## Kaggle
+- [개인적인 kaggle study github repo](https://github.com/minsoo9506/kaggle-study)
+- How to win data science competition? (cousera 강의)
