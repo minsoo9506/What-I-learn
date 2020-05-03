@@ -39,7 +39,7 @@
   - [kaggle Bengali competition](https://www.kaggle.com/c/bengaliai-cv19) : image classification
 
 - Generative deep learning
-- [1시간만에 GAN 완전정복하기 Youtube 강의](https://www.youtube.com/watch?v=odpjk7_tGY0)
+  - [1시간만에 GAN 완전정복하기 Youtube 강의](https://www.youtube.com/watch?v=odpjk7_tGY0)
 
 - NLP
 
