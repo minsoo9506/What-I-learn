@@ -42,6 +42,7 @@
   - [1시간만에 GAN 완전정복하기 Youtube 강의](https://www.youtube.com/watch?v=odpjk7_tGY0)
 
 - NLP
+  - cs 224n 강의
 
 - 기타 도서
   - 점프투파이썬
@@ -64,3 +65,10 @@
 ## Kaggle
 - [개인적인 kaggle study github repo](https://github.com/minsoo9506/kaggle-study)
 - How to win data science competition? (cousera 강의)
+
+## 논문
+- Machine learning
+  - XGBoost : A Scalable Tree Boosting System
+  - LightGbm : A Highly Efficient Gradient Boosting Decision Tree
+  -  CatBoost : unbiased boosting with categorical features
+  - Generative Adversarial Nets
