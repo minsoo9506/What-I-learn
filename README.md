@@ -40,6 +40,7 @@
 
 - Generative deep learning
   - [1시간만에 GAN 완전정복하기 Youtube 강의](https://www.youtube.com/watch?v=odpjk7_tGY0)
+  - [PR12 GAN 논문 리뷰](https://www.youtube.com/watch?v=L3hz57whyNw)
 
 - NLP
   - cs 224n 강의
@@ -70,5 +71,5 @@
 - Machine learning
   - XGBoost : A Scalable Tree Boosting System
   - LightGbm : A Highly Efficient Gradient Boosting Decision Tree
-  -  CatBoost : unbiased boosting with categorical features
+  - CatBoost : unbiased boosting with categorical features
   - Generative Adversarial Nets
