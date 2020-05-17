@@ -22,7 +22,6 @@
   - [책](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
   - [mathmeticalmonk 강의](https://m.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
   - [문일철 교수님 강의](https://m.youtube.com/channel/UC9caTTXVw19PtY07es58NDg/playlists)
-  - [PRML python 실습](https://github.com/ctgk/PRML)
 
 - ESL
   - [책](https://web.stanford.edu/~hastie/ElemStatLearn/)
@@ -38,9 +37,9 @@
   - 밑바닥부터 시작하는 딥러닝 1
   - [kaggle Bengali competition](https://www.kaggle.com/c/bengaliai-cv19) : image classification
 
-- Generative deep learning
-  - [1시간만에 GAN 완전정복하기 Youtube 강의](https://www.youtube.com/watch?v=odpjk7_tGY0)
-  - [PR12 GAN 논문 리뷰](https://www.youtube.com/watch?v=L3hz57whyNw)
+- GAN
+  - 유투브, 논문 공부
+  - GAN, DCGAN
 
 - NLP
   - cs 224n 강의
@@ -69,7 +68,10 @@
 
 ## 논문
 - Machine learning
-  - XGBoost : A Scalable Tree Boosting System
-  - LightGbm : A Highly Efficient Gradient Boosting Decision Tree
-  - CatBoost : unbiased boosting with categorical features
-  - Generative Adversarial Nets
+  - Boosting
+    - XGBoost : A Scalable Tree Boosting System
+    - LightGbm : A Highly Efficient Gradient Boosting Decision Tree
+    - CatBoost : unbiased boosting with categorical features
+  - GAN
+    - Generative Adversarial Nets (arXiv:1406.2661v1)
+    - Unsupervied representation learning with deep convolutional generative adversarial networks (ICLR 2016)
