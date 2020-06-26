@@ -13,51 +13,25 @@
 
 # Machine Learning
 - ISLR
-  - [책](http://faculty.marshall.usc.edu/gareth-james/ISL/)
-
 - Udemy (feature engineering, selection)
   - [해당자료](https://github.com/minsoo9506/udemy_FE_FS)
-
 - PRML
-  - [책](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
-  - [mathmeticalmonk 강의](https://m.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
-  - [문일철 교수님 강의](https://m.youtube.com/channel/UC9caTTXVw19PtY07es58NDg/playlists)
-
+  - 개인공부 정리
 - ESL
-  - [책](https://web.stanford.edu/~hastie/ElemStatLearn/)
-
 - Interpretation machine learning
   - [christophM](https://github.com/christophM/interpretable-ml-book)
-
 - 모두의 딥러닝 시즌 2
   - [강의](https://deeplearningzerotoall.github.io/season2/)
-
 - Image
   - [cs231n 강의](http://cs231n.stanford.edu/)
   - 밑바닥부터 시작하는 딥러닝 1
   - [kaggle Bengali competition](https://www.kaggle.com/c/bengaliai-cv19) : image classification
-
 - GAN
   - 유투브, 논문 공부
   - GAN, DCGAN
-
 - NLP
+  - 밑바닥부터 시작하는 딥러닝 2
   - cs 224n 강의
-
-- 기타 도서
-  - 점프투파이썬
-  - 파이썬 라이브러리를 활용한 머신러닝
-  - 파이썬 머신러닝 완벽가이드
-  - 데이터 과학을 위한 통계
-  - 파이토치 첫걸음
-  - Git-Github 시작하기
-
-## Data viz.
-- 책
-  - matplotlib을 이용한 데이터 시각화
-  - D3.js
-  -  Storytelling with data
-  - ggplot2
 
 ## Time series
 - [Udemy 수업 간단 정리](https://github.com/minsoo9506/Time-series-analysis/tree/master/udemy_lecture)
@@ -66,7 +40,14 @@
 - [개인적인 kaggle study github repo](https://github.com/minsoo9506/kaggle-study)
 - How to win data science competition? (cousera 강의)
 
-## 논문
+## Data visualization
+- 책
+  - matplotlib을 이용한 데이터 시각화
+  - D3.js
+  -  Storytelling with data
+  - ggplot2
+
+## 논문리딩
 - Machine learning
   - Boosting
     - XGBoost : A Scalable Tree Boosting System
