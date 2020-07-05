@@ -21,9 +21,8 @@
 - Interpretation machine learning
   - [christophM](https://github.com/christophM/interpretable-ml-book)
 - 모두의 딥러닝 시즌 2
-  - [강의](https://deeplearningzerotoall.github.io/season2/)
 - Image
-  - [cs231n 강의](http://cs231n.stanford.edu/)
+  - cs231n 강의
   - 밑바닥부터 시작하는 딥러닝 1
   - [kaggle Bengali competition](https://www.kaggle.com/c/bengaliai-cv19) : image classification
 - GAN
@@ -31,14 +30,15 @@
   - GAN, DCGAN
 - NLP
   - 밑바닥부터 시작하는 딥러닝 2
-  - cs 224n 강의
+  - cs224n 강의
 
 ## Time series
-- [Udemy 수업 간단 정리](https://github.com/minsoo9506/Time-series-analysis/tree/master/udemy_lecture)
+- Udemy Lecture
+- [Forecasting : Principles and Practice](https://otexts.com/fpp2/)
 
 ## Kaggle
-- [개인적인 kaggle study github repo](https://github.com/minsoo9506/kaggle-study)
-- How to win data science competition? (cousera 강의)
+- [kaggle study github repo](https://github.com/minsoo9506/kaggle-study)
+- How to win data science competition? (cousera)
 
 ## Data visualization
 - 책
@@ -47,7 +47,7 @@
   -  Storytelling with data
   - ggplot2
 
-## 논문리딩
+## Paper reading
 - Machine learning
   - Boosting
     - XGBoost : A Scalable Tree Boosting System
