@@ -12,16 +12,14 @@
   - 4학기 :
 
 # Machine Learning
-- ISLR
+- An Introduction to Statistical Learning
 - Udemy (feature engineering, selection)
-  - [해당자료](https://github.com/minsoo9506/udemy_FE_FS)
-- PRML
-  - 개인공부 정리
-- ESL
+  - [material](https://github.com/minsoo9506/udemy_FE_FS)
+- [Pattern Recognition and Machine Learning](https://github.com/minsoo9506/MLstudy.PRML)
+- The Elements of Statistical Learning
 - Interpretation machine learning
-  - [christophM](https://github.com/christophM/interpretable-ml-book)
-- 모두의 딥러닝 시즌 2
-- Image
+  - [christophM gitbook](https://github.com/christophM/interpretable-ml-book)
+- Vision
   - cs231n 강의
   - 밑바닥부터 시작하는 딥러닝 1
   - [kaggle Bengali competition](https://www.kaggle.com/c/bengaliai-cv19) : image classification
@@ -31,14 +29,17 @@
 - NLP
   - 밑바닥부터 시작하는 딥러닝 2
   - cs224n 강의
+- [Time Series](https://github.com/minsoo9506/MLstudy.TimeSeries)
 
-## Time series
-- Udemy Lecture
-- [Forecasting : Principles and Practice](https://otexts.com/fpp2/)
 
 ## Kaggle
 - [kaggle study github repo](https://github.com/minsoo9506/kaggle-study)
 - How to win data science competition? (cousera)
+
+## Dev.
+- [c/c++ study](https://github.com/minsoo9506/c-and-cpp)
+- [Data structure & Algorithm study with python](https://github.com/minsoo9506/Dev.DSAL)
+- [Clone Coding : kokoa](https://github.com/minsoo9506/Dev.CloneCoding.kokoa)
 
 ## Data visualization
 - 책
@@ -47,12 +48,3 @@
   -  Storytelling with data
   - ggplot2
 
-## Paper reading
-- Machine learning
-  - Boosting
-    - XGBoost : A Scalable Tree Boosting System
-    - LightGbm : A Highly Efficient Gradient Boosting Decision Tree
-    - CatBoost : unbiased boosting with categorical features
-  - GAN
-    - Generative Adversarial Nets (arXiv:1406.2661v1)
-    - Unsupervied representation learning with deep convolutional generative adversarial networks (ICLR 2016)
