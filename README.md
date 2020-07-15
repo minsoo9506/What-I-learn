@@ -1,4 +1,4 @@
-# Statistics
+## Statistics
 - 연세대학교 응용통계학과 학부 수업
   - 1학년 : 미분적분학, 선형대수학, 통계학입문
   - 2학년 : 통계학방법론,  R과 프로그래밍, 수리통계학1/2, 표본조사론
@@ -11,14 +11,15 @@
   - 3학기 :
   - 4학기 :
 
-# Machine Learning
+## Machine Learning
 - An Introduction to Statistical Learning
-- Udemy (feature engineering, selection)
-  - [material](https://github.com/minsoo9506/udemy_FE_FS)
+- [Udemy (feature engineering, selection)](https://github.com/minsoo9506/udemy_FE_FS)
 - [Pattern Recognition and Machine Learning](https://github.com/minsoo9506/MLstudy.PRML)
 - The Elements of Statistical Learning
 - Interpretation machine learning
   - [christophM gitbook](https://github.com/christophM/interpretable-ml-book)
+- [NLP](https://github.com/minsoo9506/MLstudy.NLP)
+- [Time Series](https://github.com/minsoo9506/MLstudy.TimeSeries)
 - Vision
   - cs231n 강의
   - 밑바닥부터 시작하는 딥러닝 1
@@ -26,11 +27,6 @@
 - GAN
   - 유투브, 논문 공부
   - GAN, DCGAN
-- NLP
-  - 밑바닥부터 시작하는 딥러닝 2
-  - cs224n 강의
-- [Time Series](https://github.com/minsoo9506/MLstudy.TimeSeries)
-
 
 ## Kaggle
 - [kaggle study github repo](https://github.com/minsoo9506/kaggle-study)
@@ -40,11 +36,12 @@
 - [c/c++ study](https://github.com/minsoo9506/c-and-cpp)
 - [Data structure & Algorithm study with python](https://github.com/minsoo9506/Dev.DSAL)
 - [Clone Coding : kokoa](https://github.com/minsoo9506/Dev.CloneCoding.kokoa)
+- [Docker study](https://github.com/minsoo9506/Dev.DockerStudy)
 
 ## Data visualization
 - 책
   - matplotlib을 이용한 데이터 시각화
   - D3.js
-  -  Storytelling with data
+  - Storytelling with data
   - ggplot2
 
