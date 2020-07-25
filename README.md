@@ -33,10 +33,12 @@
 - How to win data science competition? (cousera)
 
 ## Dev.
-- [c/c++ study](https://github.com/minsoo9506/c-and-cpp)
+- [c/c++ basic study](https://github.com/minsoo9506/c-and-cpp)
 - [Data structure & Algorithm study with python](https://github.com/minsoo9506/Dev.DSAL)
 - [Clone Coding : kokoa](https://github.com/minsoo9506/Dev.CloneCoding.kokoa)
-- [Docker study](https://github.com/minsoo9506/Dev.DockerStudy)
+
+## Data Engineering
+- [YBIGTA Data Engineering Team](https://github.com/minsoo9506/YBIGTA.DataEngineeringTeam)
 
 ## Data visualization
 - 책
@@ -45,5 +47,4 @@
   - Storytelling with data
   - ggplot2
 
-## Data Engineering
-- [YBIGTA Data Engineering Team](https://github.com/minsoo9506/YBIGTA.DataEngineeringTeam)
+
