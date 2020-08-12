@@ -7,7 +7,7 @@
 
 - 연세대학교 통계데이터사이언스학과 대학원 수업
   - 1학기 : 중급응용통계학
-  - 2학기 :
+  - 2학기 : 선형통계모형, 데이터사이언스를 위한 통계전산1, 베이즈통계, 비모수적 함수 추정론, 함수적 데이터 분석
   - 3학기 :
   - 4학기 :
 
@@ -21,12 +21,13 @@
 - [NLP](https://github.com/minsoo9506/MLstudy.NLP)
 - [Time Series](https://github.com/minsoo9506/MLstudy.TimeSeries)
 - Vision
-  - cs231n 강의
+  - cs231n
   - 밑바닥부터 시작하는 딥러닝 1
   - [kaggle Bengali competition](https://www.kaggle.com/c/bengaliai-cv19) : image classification
 - GAN
-  - 유투브, 논문 공부
+  - 유튜브, 논문 리딩
   - GAN, DCGAN
+- Graph
 
 ## Kaggle
 - [kaggle study github repo](https://github.com/minsoo9506/kaggle-study)
