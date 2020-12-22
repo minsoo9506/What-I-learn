@@ -13,13 +13,14 @@
   - 1학기
     - 중급응용통계학
   - 2학기
-    - 선형통계모형, 데이터사이언스를 위한 통계전산1, 베이즈통계, 비모수적 함수 추정론, 함수적 데이터 분석
+    - 선형통계모형, 통계전산, 베이즈통계, 비모수적함수추정론, 함수적데이터분석
   - 3학기
   - 4학기
 
 ## Machine Learning
 - An Introduction to Statistical Learning
 - [Udemy (feature engineering, selection)](https://github.com/minsoo9506/udemy_FE_FS)
+- CS229
 - [Pattern Recognition and Machine Learning](https://github.com/minsoo9506/MLstudy.PRML)
 - The Elements of Statistical Learning
 - Interpretation machine learning
@@ -30,11 +31,6 @@
 - Vision
   - cs231n
   - 밑바닥부터 시작하는 딥러닝 1
-  - [kaggle Bengali competition](https://www.kaggle.com/c/bengaliai-cv19) : image classification
-- GAN
-  - 유튜브, 논문 리딩
-  - GAN, DCGAN
-- Graph
 
 ## Kaggle
 - [kaggle study github repo](https://github.com/minsoo9506/kaggle-study)
