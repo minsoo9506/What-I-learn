@@ -49,7 +49,7 @@
 - How to win data science competition? (cousera)
 
 ## Math
-- [ ] 
+- [ ] 해석학
 
 ## Data visualization
 - 책
