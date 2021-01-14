@@ -41,7 +41,7 @@
   - NodeJs
 
 ## Data Engineering
-- [Data Engineering study repo](https://github.com/minsoo9506/YBIGTA.DataEngineeringTeam)
+- [Data Engineering study repo](https://github.com/minsoo9506/Data-Engineering-study)
   - spark, hadoop, kafka, docker
   
 ## Competition
