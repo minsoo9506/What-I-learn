@@ -16,17 +16,13 @@
 - [Udemy (feature engineering, selection)](https://github.com/minsoo9506/udemy_FE_FS)
 - CS229
 - [Pattern Recognition and Machine Learning](https://github.com/minsoo9506/MLstudy.PRML)
-- To do [ ] : The Elements of Statistical Learning
+- The Elements of Statistical Learning (ing)
 - Interpretation machine learning
   - [christophM gitbook](https://github.com/christophM/interpretable-ml-book), XAI 실행가능한 인공지능, 인공지능을 해부하다 (안재현)
 - [NLP](https://github.com/minsoo9506/MLstudy.NLP)
 - [Time Series](https://github.com/minsoo9506/MLstudy.TimeSeries)
 - Vision
   - cs231n, 밑바닥부터 시작하는 딥러닝 1
-
-## Competition
-- [Competition study github repo](https://github.com/minsoo9506/kaggle-study)
-- How to win data science competition? (cousera)
 
 ## Computing, Dev
 - CS Study
@@ -47,6 +43,13 @@
 ## Data Engineering
 - [Data Engineering study repo](https://github.com/minsoo9506/YBIGTA.DataEngineeringTeam)
   - spark, hadoop, kafka, docker
+  
+## Competition
+- [Competition study repo](https://github.com/minsoo9506/kaggle-study)
+- How to win data science competition? (cousera)
+
+## Math
+- [ ] 
 
 ## Data visualization
 - 책
