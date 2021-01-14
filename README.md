@@ -45,7 +45,7 @@
   - spark, hadoop, kafka, docker
   
 ## Competition
-- [Competition study repo](https://github.com/minsoo9506/kaggle-study)
+- [Competition study repo](https://github.com/minsoo9506/CompetitionStudy)
 - How to win data science competition? (cousera)
 
 ## Math
