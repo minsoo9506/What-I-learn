@@ -30,16 +30,21 @@
 
 ## Computing, Dev
 - CS Study
-- [c/c++ basic study](https://github.com/minsoo9506/c-and-cpp)
-- [Data structure & Algorithm with python](https://github.com/minsoo9506/Dev.DSAL)
-  - KAIST MOOC
-  - 파이썬 알고리즘 인터뷰 (박상길)
+  - [c/c++ basic study](https://github.com/minsoo9506/c-and-cpp)
+  - [Data structure & Algorithm with python](https://github.com/minsoo9506/Dev.DSAL)
+    - KAIST MOOC
+    - 파이썬 알고리즘 인터뷰 (박상길)
+  - [ ] 운영체제
+  - [ ] 컴퓨터구조
+  - [ ] 네트워크
 - Coding Test Study
   - 이것이 코딩 테스트다 (나동빈)
-- Clone Coding (JS)
-  - [kokoa](https://github.com/minsoo9506/Dev.CloneCoding.kokoa) (html, css)
-  - [Chrome app](https://github.com/minsoo9506/Dev.CloneCoding.ChromeApp) (vanilla JS)
-- Flask Study
+- Web dev
+  - Clone Coding (JS)
+    - [kokoa](https://github.com/minsoo9506/Dev.CloneCoding.kokoa) (html, css)
+    - [Chrome app](https://github.com/minsoo9506/Dev.CloneCoding.ChromeApp) (vanilla JS)
+  - Flask
+  - NodeJs
 
 ## Data Engineering
 - [Data Engineering study repo](https://github.com/minsoo9506/YBIGTA.DataEngineeringTeam)
