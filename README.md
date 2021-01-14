@@ -16,7 +16,7 @@
 - [Udemy (feature engineering, selection)](https://github.com/minsoo9506/udemy_FE_FS)
 - CS229
 - [Pattern Recognition and Machine Learning](https://github.com/minsoo9506/MLstudy.PRML)
-- [ ] The Elements of Statistical Learning
+- To do [ ] : The Elements of Statistical Learning
 - Interpretation machine learning
   - [christophM gitbook](https://github.com/christophM/interpretable-ml-book), XAI 실행가능한 인공지능, 인공지능을 해부하다 (안재현)
 - [NLP](https://github.com/minsoo9506/MLstudy.NLP)
@@ -32,17 +32,15 @@
 - CS Study
   - [c/c++ basic study](https://github.com/minsoo9506/c-and-cpp)
   - [Data structure & Algorithm with python](https://github.com/minsoo9506/Dev.DSAL)
-    - KAIST MOOC
-    - 파이썬 알고리즘 인터뷰 (박상길)
+    - KAIST MOOC, 파이썬 알고리즘 인터뷰 (박상길)
   - [ ] 운영체제
   - [ ] 컴퓨터구조
   - [ ] 네트워크
 - Coding Test Study
   - 이것이 코딩 테스트다 (나동빈)
 - Web dev
-  - Clone Coding (JS)
-    - [kokoa](https://github.com/minsoo9506/Dev.CloneCoding.kokoa) (html, css)
-    - [Chrome app](https://github.com/minsoo9506/Dev.CloneCoding.ChromeApp) (vanilla JS)
+  - Clone Coding
+    - [kokoa](https://github.com/minsoo9506/Dev.CloneCoding.kokoa) (html, css), [Chrome app](https://github.com/minsoo9506/Dev.CloneCoding.ChromeApp) (vanilla JS)
   - Flask
   - NodeJs
 
