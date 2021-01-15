@@ -50,7 +50,11 @@
 - How to win data science competition? (cousera)
 
 ## Math
+- [ ] 선형대수1 (수학과)
+- [ ] 선형대수2 (수학과)
 - [ ] 해석학
+- [ ] 함수해석
+- [ ] 수치해석
 
 ## Data visualization
 - 책
