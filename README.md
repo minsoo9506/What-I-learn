@@ -18,12 +18,12 @@
   - cs229
   - Pattern Recognition and Machine Learning
   - [ ] The Elements of Statistical Learning
-- XAI
-  - [christophM gitbook](https://github.com/christophM/interpretable-ml-book), XAI 실행가능한 인공지능, 인공지능을 해부하다 (안재현)
-- [NLP](https://github.com/minsoo9506/NLP-study)
-- [Time Series](https://github.com/minsoo9506/MLstudy.TimeSeries)
+- [NLP study repo](https://github.com/minsoo9506/NLP-study)
+- [Time Series study repo](https://github.com/minsoo9506/MLstudy.TimeSeries)
 - Vision
   - cs231n, 밑바닥부터 시작하는 딥러닝 1
+- XAI
+  - [christophM gitbook](https://github.com/christophM/interpretable-ml-book), XAI 실행가능한 인공지능, 인공지능을 해부하다 (안재현)
 
 ## Computing, Dev
 - CS Study
