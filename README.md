@@ -12,14 +12,15 @@
   - 4학기
 
 ## Machine Learning
-- An Introduction to Statistical Learning
 - [Udemy (feature engineering, selection)](https://github.com/minsoo9506/udemy_FE_FS)
-- CS229
-- [Pattern Recognition and Machine Learning](https://github.com/minsoo9506/MLstudy.PRML)
-- The Elements of Statistical Learning (ing)
-- Interpretation machine learning
+- [ML study repo](https://github.com/minsoo9506/ML-study)
+  - An Introduction to Statistical Learning
+  - cs229
+  - Pattern Recognition and Machine Learning
+  - [ ] The Elements of Statistical Learning
+- XAI
   - [christophM gitbook](https://github.com/christophM/interpretable-ml-book), XAI 실행가능한 인공지능, 인공지능을 해부하다 (안재현)
-- [NLP](https://github.com/minsoo9506/MLstudy.NLP)
+- [NLP](https://github.com/minsoo9506/NLP-study)
 - [Time Series](https://github.com/minsoo9506/MLstudy.TimeSeries)
 - Vision
   - cs231n, 밑바닥부터 시작하는 딥러닝 1
@@ -34,7 +35,7 @@
   - [ ] 네트워크
 - Coding Test Study
   - 이것이 코딩 테스트다 (나동빈)
-- Web dev
+- [Web dev repo](https://github.com/minsoo9506/web-dev-study)
   - Clone Coding
     - [kokoa](https://github.com/minsoo9506/Dev.CloneCoding.kokoa) (html, css), [Chrome app](https://github.com/minsoo9506/Dev.CloneCoding.ChromeApp) (vanilla JS)
   - Flask
