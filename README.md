@@ -8,16 +8,12 @@
 - 연세대학교 통계데이터사이언스학과 대학원 수업
   - 1학기 : 중급응용통계학
   - 2학기 : 선형통계모형, 통계전산, 베이즈통계, 비모수적함수추정론, 함수적데이터분석
-  - 3학기
+  - 3학기 : 수리통계학, 다변량, 딥러닝이론, 딥러닝과데이터과학(네트워크임베딩)
   - 4학기
 
 ## Machine Learning
 - [Udemy (feature engineering, selection)](https://github.com/minsoo9506/udemy_FE_FS)
-- [ML study repo](https://github.com/minsoo9506/ML-study)
-  - An Introduction to Statistical Learning
-  - cs229
-  - Pattern Recognition and Machine Learning
-  - [ ] The Elements of Statistical Learning
+- [Machine learning study repo](https://github.com/minsoo9506/machine-learning-study)
 - [NLP study repo](https://github.com/minsoo9506/NLP-study)
 - [Time Series study repo](https://github.com/minsoo9506/MLstudy.TimeSeries)
 - Vision
@@ -25,19 +21,20 @@
 - XAI
   - [christophM gitbook](https://github.com/christophM/interpretable-ml-book), XAI 실행가능한 인공지능, 인공지능을 해부하다 (안재현)
 
-## Computing, Dev
+## Computer Science
 - CS Study
   - [c/c++ basic study](https://github.com/minsoo9506/c-and-cpp)
-  - [Data structure & Algorithm with python](https://github.com/minsoo9506/Dev.DSAL)
-    - KAIST MOOC, 파이썬 알고리즘 인터뷰 (박상길)
+  - Data structure & Algorithm with python
+    - KAIST MOOC 문일철, 파이썬 알고리즘 인터뷰 (박상길), KOCW 알고리즘과 문제해결 (고려대)
   - [ ] 운영체제
   - [ ] 컴퓨터구조
   - [ ] 네트워크
 - Coding Test Study
   - 이것이 코딩 테스트다 (나동빈)
+
+## Dev
 - [Web dev repo](https://github.com/minsoo9506/web-dev-study)
   - Clone Coding
-    - [kokoa](https://github.com/minsoo9506/Dev.CloneCoding.kokoa) (html, css), [Chrome app](https://github.com/minsoo9506/Dev.CloneCoding.ChromeApp) (vanilla JS)
   - Flask
   - NodeJs
 
@@ -50,8 +47,6 @@
 - How to win data science competition? (cousera)
 
 ## Math
-- [ ] 선형대수1 (수학과)
-- [ ] 선형대수2 (수학과)
 - [ ] 해석학
 - [ ] 함수해석
 - [ ] 수치해석
