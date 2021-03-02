@@ -15,7 +15,7 @@
 - [Udemy (feature engineering, selection)](https://github.com/minsoo9506/udemy_FE_FS)
 - [Machine learning study repo](https://github.com/minsoo9506/machine-learning-study)
 - [NLP study repo](https://github.com/minsoo9506/NLP-study)
-- [Time Series study repo](https://github.com/minsoo9506/MLstudy.TimeSeries)
+- [Time Series study repo](https://github.com/minsoo9506/MLstudy.Time-Series-study)
 - Vision
   - cs231n, 밑바닥부터 시작하는 딥러닝 1
 - XAI
@@ -24,8 +24,9 @@
 ## Computer Science
 - CS Study
   - [c/c++ basic study](https://github.com/minsoo9506/c-and-cpp)
-  - Data structure & Algorithm with python
+  - [Data structure & Algorithm with python]((https://github.com/minsoo9506/DS-AL-study))
     - KAIST MOOC 문일철, 파이썬 알고리즘 인터뷰 (박상길), KOCW 알고리즘과 문제해결 (고려대)
+  - [ ] 리눅스 기본
   - [ ] 운영체제
   - [ ] 컴퓨터구조
   - [ ] 네트워크
@@ -47,7 +48,9 @@
 - How to win data science competition? (cousera)
 
 ## Math
-- [ ] 해석학
+- [ ] 선형대수 1,2 (수학과)
+- [ ] 집합론
+- [ ] 해석학1
 - [ ] 함수해석
 - [ ] 수치해석
 
