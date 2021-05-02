@@ -8,12 +8,14 @@
 - 연세대학교 통계데이터사이언스학과 대학원 수업
   - 1학기 : 중급응용통계학
   - 2학기 : 선형통계모형, 통계전산, 베이즈통계, 비모수적함수추정론, 함수적데이터분석
-  - 3학기 : 수리통계학, 다변량, 딥러닝이론, 딥러닝과데이터과학(네트워크임베딩)
-  - 4학기
+  - 3학기 : 수리통계학, 다변량, 딥러닝이론, 딥러닝과데이터과학(네트워크임베딩), 통계적학습
+  - 4학기 : 졸업논문
 
 ## Machine Learning
 - [Udemy (feature engineering, selection)](https://github.com/minsoo9506/udemy_FE_FS)
 - [Machine learning study repo](https://github.com/minsoo9506/machine-learning-study)
+- [Anomaly detection study repo](https://github.com/minsoo9506/anomaly-detection-study)
+- [Imbalanced learning study repo](https://github.com/minsoo9506/imbalanced-learning-study)
 - [NLP study repo](https://github.com/minsoo9506/NLP-study)
 - [Time Series study repo](https://github.com/minsoo9506/MLstudy.Time-Series-study)
 - Vision
@@ -25,13 +27,12 @@
 - CS Study
   - [c/c++ basic study](https://github.com/minsoo9506/c-and-cpp)
   - [Data structure & Algorithm with python]((https://github.com/minsoo9506/DS-AL-study))
-    - KAIST MOOC 문일철, 파이썬 알고리즘 인터뷰 (박상길), KOCW 알고리즘과 문제해결 (고려대)
-  - [ ] 리눅스 기본
-  - [ ] 운영체제
-  - [ ] 컴퓨터구조
-  - [ ] 네트워크
-- Coding Test Study
-  - 이것이 코딩 테스트다 (나동빈)
+    - KAIST MOOC 문일철, 파이썬 알고리즘 인터뷰 (박상길), 권오흠 교수님 알고리즘 수업
+  - To do
+    - [ ] 리눅스 기본
+    - [ ] 운영체제
+    - [ ] 컴퓨터구조
+    - [ ] 네트워크
 
 ## Dev
 - [Web dev repo](https://github.com/minsoo9506/web-dev-study)
@@ -46,13 +47,6 @@
 ## Competition
 - [Competition study repo](https://github.com/minsoo9506/CompetitionStudy)
 - How to win data science competition? (cousera)
-
-## Math
-- [ ] 선형대수 1,2 (수학과)
-- [ ] 집합론
-- [ ] 해석학1
-- [ ] 함수해석
-- [ ] 수치해석
 
 ## Data visualization
 - 책
