@@ -17,7 +17,7 @@
 - [Anomaly detection study repo](https://github.com/minsoo9506/anomaly-detection-study)
 - [Imbalanced learning study repo](https://github.com/minsoo9506/imbalanced-learning-study)
 - [NLP study repo](https://github.com/minsoo9506/NLP-study)
-- [Time Series study repo](https://github.com/minsoo9506/MLstudy.Time-Series-study)
+- [Time Series study repo](https://github.com/minsoo9506/time-series-study)
 - Vision
   - cs231n, 밑바닥부터 시작하는 딥러닝 1
 - XAI
