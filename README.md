@@ -1,4 +1,4 @@
-## Statistics
+## Academic Lecture
 - 연세대학교 응용통계학과 학부 수업
   - 1학년 : 미분적분학, 선형대수학, 통계학입문
   - 2학년 : 통계학방법론, R과 프로그래밍, 수리통계학1/2, 표본조사론
@@ -12,16 +12,23 @@
   - 4학기 : 졸업논문
 
 ## Machine Learning
-- [Udemy (feature engineering, selection)](https://github.com/minsoo9506/udemy_FE_FS)
-- [Machine learning study repo](https://github.com/minsoo9506/machine-learning-study)
-- [Anomaly detection study repo](https://github.com/minsoo9506/anomaly-detection-study)
-- [Imbalanced learning study repo](https://github.com/minsoo9506/imbalanced-learning-study)
-- [NLP study repo](https://github.com/minsoo9506/NLP-study)
-- [Time Series study repo](https://github.com/minsoo9506/time-series-study)
-- Vision
-  - cs231n, 밑바닥부터 시작하는 딥러닝 1
+- Udemy (feature engineering, selection)
+  - [Repo](https://github.com/minsoo9506/udemy_FE_FS)
+- Machine learning study
+  - [Repo](https://github.com/minsoo9506/machine-learning-study)
+- NLP study
+  - [Repo](https://github.com/minsoo9506/NLP-study)
 - XAI
-  - [christophM gitbook](https://github.com/christophM/interpretable-ml-book), XAI 실행가능한 인공지능, 인공지능을 해부하다 (안재현)
+  - [christophM gitbook](https://github.com/christophM/interpretable-ml-book)
+  - (Book) XAI 실행가능한 인공지능, 인공지능을 해부하다 (안재현)
+  
+## Personal Interest
+- Anomaly detection study
+  - [Repo](https://github.com/minsoo9506/anomaly-detection-study)
+- Imbalanced learning study
+  - [Repo](https://github.com/minsoo9506/imbalanced-learning-study)
+- Time Series study repo
+  - [Repo](https://github.com/minsoo9506/time-series-study)
 
 ## Computer Science
 - CS Study
@@ -34,7 +41,7 @@
     - [ ] 컴퓨터구조
     - [ ] 네트워크
 
-## Dev
+## Development
 - [Web dev repo](https://github.com/minsoo9506/web-dev-study)
   - Clone Coding
   - Flask
@@ -42,11 +49,11 @@
 
 ## Data Engineering
 - [Data Engineering study repo](https://github.com/minsoo9506/Data-Engineering-study)
-  - spark, hadoop, kafka, docker
+  - spark, hadoop, kafka, docker 개념 및 간단한 실습
   
 ## Competition
 - [Competition study repo](https://github.com/minsoo9506/CompetitionStudy)
-- How to win data science competition? (cousera)
+- (Cousera Lecture) How to win data science competition? 
 
 ## Data visualization
 - 책
