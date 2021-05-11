@@ -27,7 +27,7 @@
   - [Repo](https://github.com/minsoo9506/anomaly-detection-study)
 - Imbalanced learning study
   - [Repo](https://github.com/minsoo9506/imbalanced-learning-study)
-- Time Series study repo
+- Time Series study
   - [Repo](https://github.com/minsoo9506/time-series-study)
 
 ## Computer Science
