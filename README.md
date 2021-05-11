@@ -49,7 +49,7 @@
 
 ## Data Engineering
 - [Data Engineering study repo](https://github.com/minsoo9506/Data-Engineering-study)
-  - spark, hadoop, kafka, docker 개념 및 간단한 실습
+  - spark, hadoop, kafka, hive, docker, SQL(MySQL) 개념 및 간단한 실습
   
 ## Competition
 - [Competition study repo](https://github.com/minsoo9506/CompetitionStudy)
