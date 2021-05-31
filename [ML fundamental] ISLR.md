@@ -1,0 +1,14 @@
+## (Book) An Introduction to Statistical Learning
+- Info
+  - 통계학 3, 4학년 학부생이 머신러닝에 대해 입문하는 경우 최고의 책이라고 생각한다.
+  - 2021년에 새 버전이 나온다는데 빨리 다시 읽어보고 싶다.
+- Contens
+  - Statistical Learning
+  - Linear Regression
+  - Classification : `logistic regression`, `LDA`
+  - Resampling Methods : `cv`, `bootstrap`
+  - Linear Model Selection and Regularization : `subset selection`, `ridge`, `lasso`, `PCR`, `PLS`
+  - Moving Beyond Linearity : `basis function`, `regression splines`, `smoothing splines`, `GAM`
+  - Tree-Based Method : `bagging`, `RF`, `boosting`
+  - Support Vector Machines
+  - Unsupervised Learning : `PCA`, `clustering`

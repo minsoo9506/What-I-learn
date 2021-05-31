@@ -1,0 +1,19 @@
+## (Book) Pattern Recognition and Machine Learning
+- Info
+  - 통계기초가 탄탄하고 베이지안 통계에 대한 이해를 하고 있다면 유용하다.
+  - 공개된 관련 강의도 많다. (Youtube : KAIST 문일철, mathmeticalmonk)
+  - 모든 이론적인 내용에 대해 습득하기는 어렵고 필요한 부분만 깊게 공부하면 될 것이다.
+  - [개인 블로그 정리](https://minsoo9506.github.io/contact/)
+- Contents
+  - Basic : `probability`
+  - Linear Model For Regression : `linear regression`, `bayesian approach`
+  - Linear Model For Classification : `generative model`, `logistic regression`, `naive bayes`
+  - Kernel Method : `kernel`, `gaussian process`
+  - Sparse Kernel Machine : `SVM`, `bayesian SVM`
+  - Graphical Models : `bayesian network`, `markov random field`
+  - Mixture Models and EM : `EM algorithm`, `GMM`
+  - Approximation Inference : `variational inference`, `expectation propagation`
+  - Sampling Method : `regection sampling`, `importance sampling`, `MCMC`, `metropolis-hastings algorithm`, `gibbs sampling`
+  - Continuous Latent Variables : `PCA`, `probabilistic PCA`, `kernel PCA`, `nonlinear latent variable models`
+  - Sequential Data : `markov models`, `HMM`, `liner dynmical systems`
+  - Combining Models : `bayesian model averaging`, `boosting`, `conditional mixture model`
