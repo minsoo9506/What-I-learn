@@ -43,8 +43,8 @@
 - c/c++ basic study
   - [`My repository`](https://github.com/minsoo9506/c-and-cpp)
   - (Lecture) 인프런 홍정모 강의
+- [`My repository`](https://github.com/minsoo9506/computer-science-study)
 - Data structure & Algorithm with python
-  - [`My repository`](https://github.com/minsoo9506/DS-AL-study)
   - (Lecture) KAIST MOOC 문일철, (Book) 파이썬 알고리즘 인터뷰
 - 알고리즘
   - 권오흠 교수님 알고리즘 수업
