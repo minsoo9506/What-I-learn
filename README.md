@@ -12,11 +12,11 @@
   - 4학기 : 졸업논문
 
 ## Personal Interest
-- Anomaly detection `(ing)`
+- Anomaly detection study `(ing)`
   - [`My repository`](https://github.com/minsoo9506/anomaly-detection-study)
-- Imbalanced learning
+- Imbalanced learning study
   - [`My repository`](https://github.com/minsoo9506/imbalanced-learning-study)
-- Time series `(ing)`
+- Time series study `(ing)`
   - [`My repository`](https://github.com/minsoo9506/time-series-study)
 
 ## Machine Learning Fundamental
@@ -28,11 +28,11 @@
 - (Book) ESL `(ing)`
 
 ## Deep Learning
-- NLP
+- NLP study
   - [`My repository`](https://github.com/minsoo9506/NLP-study)
 - (Lecture in Yonsei) Network Embedding
   - Matrix Factorization, DeepWalk, LINE, Node2Vec, project
-- (Book) Deep Learning `(ing)`
+- (Book) Deep Learning
   - 패스트캠퍼스 완주반 조교
 
 ## XAI
@@ -40,19 +40,13 @@
   - (Book) XAI 실행가능한 인공지능, 인공지능을 해부하다 (안재현)
 
 ## Computer Science
-- c/c++ basic study
-  - [`My repository`](https://github.com/minsoo9506/c-and-cpp)
-  - (Lecture) 인프런 홍정모 강의
 - [`My repository`](https://github.com/minsoo9506/computer-science-study)
-- Data structure & Algorithm with python
-  - (Lecture) KAIST MOOC 문일철, (Book) 파이썬 알고리즘 인터뷰
-- 알고리즘
-  - 권오흠 교수님 알고리즘 수업
-- To do
-  - [ ] 리눅스 기본, 운영체제
-  - [ ] DB
-  - [ ] 컴퓨터구조
-  - [ ] 네트워크
+- Language
+  - C/C++ basic, Java basic, Python
+- CS fundamental
+  - 운영체제, 네트워크
+- etc
+  - SQL, Docker `(ing)`
 
 ## Development
 - [`My repository`](https://github.com/minsoo9506/web-dev-study)
