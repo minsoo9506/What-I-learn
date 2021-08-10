@@ -12,54 +12,47 @@
   - 4학기 : 졸업논문
 
 ## Personal Interest
-- Anomaly detection study `(ing)`
-  - [`My repository`](https://github.com/minsoo9506/anomaly-detection-study)
-- Imbalanced learning study
-  - [`My repository`](https://github.com/minsoo9506/imbalanced-learning-study)
-- Time series study `(ing)`
-  - [`My repository`](https://github.com/minsoo9506/time-series-study)
+- [Anomaly detection study](https://github.com/minsoo9506/anomaly-detection-study)
+- [Imbalanced learning study](https://github.com/minsoo9506/imbalanced-learning-study)
+- [Time series study](https://github.com/minsoo9506/time-series-study)
 
 ## Machine Learning Fundamental
-- (Lecture) Udemy : feature engineering, selection
-  - [`My repository`](https://github.com/minsoo9506/udemy_FE_FS)
+- [(Lecture) Udemy](https://github.com/minsoo9506/udemy_FE_FS) : feature engineering, selection
 - (Lecture) CS229
 - (Book) Pattern Recognition and Machine Learning
 - (Book) Introduction to Statistical Learning
-- (Book) ESL `(ing)`
+- (Book) Element of Sttistical Learning
 
 ## Deep Learning
-- NLP study
-  - [`My repository`](https://github.com/minsoo9506/NLP-study)
+- (Lecture) CS231n
+- [NLP study](https://github.com/minsoo9506/NLP-study)
 - (Lecture in Yonsei) Network Embedding
   - Matrix Factorization, DeepWalk, LINE, Node2Vec, project
 - (Book) Deep Learning
   - 패스트캠퍼스 완주반 조교
 
 ## XAI
-  - [`christophM gitbook`](https://github.com/christophM/interpretable-ml-book)
+  - [christophM gitbook](https://github.com/christophM/interpretable-ml-book)
   - (Book) XAI 실행가능한 인공지능, 인공지능을 해부하다 (안재현)
 
-## Computer Science
-- [`My repository`](https://github.com/minsoo9506/computer-science-study)
+## [Computer Science](https://github.com/minsoo9506/computer-science-study)
 - Language
-  - C/C++ basic, Java basic, Python
+  - C/C++ basic, Java basic, Javascript basic, Python
 - CS fundamental
   - 운영체제, 네트워크
 - etc
-  - SQL, Docker `(ing)`
+  - SQL, Docker
 
-## Development
-- [`My repository`](https://github.com/minsoo9506/web-dev-study)
+## [Development](https://github.com/minsoo9506/web-dev-study)
   - Clone Coding
   - Flask
   - NodeJs
 
-## Data Engineering
-- [`My repository`](https://github.com/minsoo9506/Data-Engineering-study)
+## [Data Engineering](https://github.com/minsoo9506/Data-Engineering-study)
   - spark, hadoop, kafka, hive, docker, SQL(MySQL) 개념 및 간단한 실습
   
-## Competition
-- [`My repository`](https://github.com/minsoo9506/CompetitionStudy)
+## [Competition](https://github.com/minsoo9506/CompetitionStudy)
+- competition 참여: 모델링 연습
 - (Lecture) How to win data science competition? 
 
 ## Data Analysis & Viz
