@@ -19,9 +19,9 @@
 ## Machine Learning Fundamental
 - [(Lecture) Udemy](https://github.com/minsoo9506/udemy_FE_FS) : feature engineering, selection
 - (Lecture) CS229
-- (Book) Pattern Recognition and Machine Learning
+- (Book) Pattern Recognition and Machine Learning [`blog`](https://minsoo9506.github.io/contact/)
 - (Book) Introduction to Statistical Learning
-- (Book) Element of Sttistical Learning
+- (Book) Element of Statistical Learning
 
 ## Deep Learning
 - (Lecture) CS231n
@@ -29,11 +29,7 @@
 - (Lecture in Yonsei) Network Embedding
   - Matrix Factorization, DeepWalk, LINE, Node2Vec, project
 - (Book) Deep Learning
-  - 패스트캠퍼스 완주반 조교
-
-## XAI
-  - [christophM gitbook](https://github.com/christophM/interpretable-ml-book)
-  - (Book) XAI 실행가능한 인공지능, 인공지능을 해부하다 (안재현)
+  - 패스트캠퍼스 완주반 조교 활동
 
 ## [Computer Science](https://github.com/minsoo9506/computer-science-study)
 - Language
@@ -43,13 +39,20 @@
 - etc
   - SQL, Docker
 
+## [Data Engineering](https://github.com/minsoo9506/data-engineering-study)
+  - 연세대학교 빅데이터 학술동아리 YBIGTA
+    - spark, hadoop, kafka, hive, docker, SQL(MySQL) 개념 및 간단한 실습
+  - 가짜연구소 3기 data engineering study 참여
+    - Datacamp Data Engineering Course
+
+## XAI
+  - [christophM gitbook](https://github.com/christophM/interpretable-ml-book)
+  - (Book) XAI 실행가능한 인공지능, 인공지능을 해부하다 (안재현)
+
 ## [Development](https://github.com/minsoo9506/web-dev-study)
   - Clone Coding
   - Flask
   - NodeJs
-
-## [Data Engineering](https://github.com/minsoo9506/Data-Engineering-study)
-  - spark, hadoop, kafka, hive, docker, SQL(MySQL) 개념 및 간단한 실습
   
 ## [Competition](https://github.com/minsoo9506/CompetitionStudy)
 - competition 참여: 모델링 연습
