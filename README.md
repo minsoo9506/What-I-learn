@@ -15,6 +15,8 @@
 - [Anomaly detection study](https://github.com/minsoo9506/anomaly-detection-study)
 - [Imbalanced learning study](https://github.com/minsoo9506/imbalanced-learning-study)
 - [Time series study](https://github.com/minsoo9506/time-series-study)
+- [OWOP](https://github.com/minsoo9506/OWOP)
+  - ML Paper Reading Study Group
 
 ## Machine Learning Fundamental
 - [(Lecture) Udemy](https://github.com/minsoo9506/udemy_FE_FS) : feature engineering, selection
@@ -46,7 +48,7 @@
     - Datacamp Data Engineering Course
 
 ## XAI
-  - [christophM gitbook](https://github.com/christophM/interpretable-ml-book)
+  - christophM gitbook
   - (Book) XAI 실행가능한 인공지능, 인공지능을 해부하다 (안재현)
 
 ## [Development](https://github.com/minsoo9506/web-dev-study)
