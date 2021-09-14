@@ -21,15 +21,14 @@
 ## Machine Learning Fundamental
 - [(Lecture) Udemy](https://github.com/minsoo9506/udemy_FE_FS) : feature engineering, selection
 - (Lecture) CS229
-- (Book) Pattern Recognition and Machine Learning [`blog`](https://minsoo9506.github.io/contact/)
+- [(Book) Pattern Recognition and Machine Learning](https://minsoo9506.github.io/contact/)
 - (Book) Introduction to Statistical Learning
 - (Book) Element of Statistical Learning
 
 ## Deep Learning
 - (Lecture) CS231n
 - [NLP study](https://github.com/minsoo9506/NLP-study)
-- (Lecture in Yonsei) Network Embedding
-  - Matrix Factorization, DeepWalk, LINE, Node2Vec, project
+- [(Lecture in Yonsei) Network Embedding](https://github.com/minsoo9506/network-embedding)
 - (Book) Deep Learning
   - 패스트캠퍼스 완주반 조교 활동
 
@@ -37,7 +36,7 @@
 - Language
   - C/C++ basic, Java basic, Javascript basic, Python
 - CS fundamental
-  - 운영체제, 네트워크
+  - 운영체제, 네트워크, 데이터베이스
 - etc
   - SQL, Docker
 
@@ -52,9 +51,8 @@
   - (Book) XAI 실행가능한 인공지능, 인공지능을 해부하다 (안재현)
 
 ## [Development](https://github.com/minsoo9506/web-dev-study)
-  - Clone Coding
-  - Flask
-  - NodeJs
+  - Clone Coding (html, css, Javascript)
+  - Flask, NodeJs
   
 ## [Competition](https://github.com/minsoo9506/CompetitionStudy)
 - competition 참여: 모델링 연습
