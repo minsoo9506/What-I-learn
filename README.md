@@ -29,8 +29,7 @@
 - (Lecture) CS231n
 - [NLP study](https://github.com/minsoo9506/NLP-study)
 - [(Lecture in Yonsei) Network Embedding](https://github.com/minsoo9506/network-embedding)
-- (Book) Deep Learning
-  - 패스트캠퍼스 완주반 조교 활동
+- [Pytorch study](https://github.com/minsoo9506/pytorch-study)
 
 ## [Computer Science](https://github.com/minsoo9506/computer-science-study)
 - Language
