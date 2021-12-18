@@ -36,8 +36,6 @@
   - C/C++ basic, Java basic, Javascript basic, Python
 - CS fundamental
   - 운영체제, 네트워크, 데이터베이스
-- etc
-  - SQL, Docker
 
 ## [Data Engineering](https://github.com/minsoo9506/data-engineering-study)
   - 연세대학교 빅데이터 학술동아리 YBIGTA
@@ -52,10 +50,6 @@
 ## [Development](https://github.com/minsoo9506/web-dev-study)
   - Clone Coding (html, css, Javascript)
   - Flask, NodeJs
-  
-## [Competition](https://github.com/minsoo9506/CompetitionStudy)
-- competition 참여: 모델링 연습
-- (Lecture) How to win data science competition? 
 
 ## Data Analysis & Viz
 - (Book) matplotlib을 이용한 데이터 시각화
