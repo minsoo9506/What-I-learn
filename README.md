@@ -1,4 +1,11 @@
-## Academic Lecture
+# Now
+### Interest
+- [Anomaly detection study](https://github.com/minsoo9506/anomaly-detection-study)
+- [Imbalanced learning study](https://github.com/minsoo9506/imbalanced-learning-study)
+- Causality
+
+# Before
+### Academic Lecture
 - 연세대학교 응용통계학과 학부 수업
   - 1학년 : 미분적분학, 선형대수학, 통계학입문
   - 2학년 : 통계학방법론, R과 프로그래밍, 수리통계학1/2, 표본조사론
@@ -11,47 +18,45 @@
   - 3학기 : 수리통계학, 다변량, 딥러닝이론, 네트워크임베딩, 통계적학습
   - 4학기 : 졸업논문
 
-## Personal Interest
-- [Anomaly detection study](https://github.com/minsoo9506/anomaly-detection-study)
-- [Imbalanced learning study](https://github.com/minsoo9506/imbalanced-learning-study)
+### Interest
 - [Time series study](https://github.com/minsoo9506/time-series-study)
 - [OWOP](https://github.com/minsoo9506/OWOP)
   - ML Paper Reading Study Group
 
-## Machine Learning Fundamental
+### Machine Learning Fundamental
 - [(Lecture) Udemy](https://github.com/minsoo9506/udemy_FE_FS) : feature engineering, selection
 - (Lecture) CS229
 - [(Book) Pattern Recognition and Machine Learning](https://minsoo9506.github.io/contact/)
 - (Book) Introduction to Statistical Learning
 - (Book) Element of Statistical Learning
 
-## Deep Learning
+### Deep Learning
 - (Lecture) CS231n
 - [NLP study](https://github.com/minsoo9506/NLP-study)
 - [(Lecture in Yonsei) Network Embedding](https://github.com/minsoo9506/network-embedding)
 - [Pytorch study](https://github.com/minsoo9506/pytorch-study)
 
-## [Computer Science](https://github.com/minsoo9506/computer-science-study)
+### [Computer Science](https://github.com/minsoo9506/computer-science-study)
 - Language
   - C/C++ basic, Java basic, Javascript basic, Python
 - CS fundamental
   - 운영체제, 네트워크, 데이터베이스
 
-## [Data Engineering](https://github.com/minsoo9506/data-engineering-study)
+### [Data Engineering](https://github.com/minsoo9506/data-engineering-study)
   - 연세대학교 빅데이터 학술동아리 YBIGTA
     - spark, hadoop, kafka, hive, docker, SQL(MySQL) 개념 및 간단한 실습
   - 가짜연구소 3기 data engineering study 참여
     - Datacamp Data Engineering Course
 
-## XAI
+### XAI
   - christophM gitbook
   - (Book) XAI 실행가능한 인공지능, 인공지능을 해부하다 (안재현)
 
-## [Development](https://github.com/minsoo9506/web-dev-study)
+### [Development](https://github.com/minsoo9506/web-dev-study)
   - Clone Coding (html, css, Javascript)
   - Flask, NodeJs
 
-## Data Analysis & Viz
+### Data Analysis & Viz
 - (Book) matplotlib을 이용한 데이터 시각화
 - (Book) D3.js
 - (Book) Storytelling with data
