@@ -1,7 +1,9 @@
 # Now
 ### Interest
-- [Anomaly detection study](https://github.com/minsoo9506/anomaly-detection-study)
-- [Imbalanced learning study](https://github.com/minsoo9506/imbalanced-learning-study)
+- [catchMinor](https://github.com/minsoo9506/catchMinor)
+  - tabular, time series
+  - imbalance learning
+  - anomaly detection, outlier analysis   
 - Causality
 
 # Before
