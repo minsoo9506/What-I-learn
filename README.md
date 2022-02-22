@@ -1,7 +1,4 @@
 # Now
-### Doing
-- 대학원: 졸업논문, 경시적자료분석 수업청강
-- cs기본공부: 운영체제, 시스템프로그래밍
 ### Interest
 - [catchMinor](https://github.com/minsoo9506/catchMinor)
   - tabular, time series
