@@ -43,7 +43,7 @@
 - Language
   - C/C++ basic, Java basic, Javascript basic, Python
 - CS fundamental
-  - 운영체제, 네트워크, 데이터베이스
+  - 운영체제, 네트워크, 시스템프로그
 
 ### [Data Engineering](https://github.com/minsoo9506/data-engineering-study)
   - 연세대학교 빅데이터 학술동아리 YBIGTA
