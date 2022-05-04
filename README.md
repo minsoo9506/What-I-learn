@@ -2,7 +2,7 @@
 ### Interest
 - [catchMinor](https://github.com/minsoo9506/catchMinor)
   - tabular, time series
-  - imbalance learning
+  - imbalanced learning
   - anomaly detection, outlier analysis   
 - Causality
 - ML engineering
@@ -18,8 +18,8 @@
 - 연세대학교 통계데이터사이언스학과 대학원 수업
   - 1학기 : 중급응용통계학
   - 2학기 : 선형통계모형, 통계전산, 베이즈통계, 비모수적함수추정론, 함수적데이터분석
-  - 3학기 : 수리통계학, 다변량, 딥러닝이론, 네트워크임베딩, 통계적학습
-  - 4학기 : 경시적 자료분석, 졸업논문
+  - 3학기 : 수리통계학, 다변량, 딥러닝이론, 네트워크임베딩, 통계적학습(일부청강)
+  - 4학기 : 경시적 자료분석(일부청강), 졸업논문
 
 ### Interest
 - [Time series study](https://github.com/minsoo9506/time-series-study)
@@ -43,7 +43,7 @@
 - Language
   - C/C++ basic, Java basic, Javascript basic, Python
 - CS fundamental
-  - 운영체제, 네트워크, 시스템프로그
+  - 운영체제
 
 ### [Data Engineering](https://github.com/minsoo9506/data-engineering-study)
   - 연세대학교 빅데이터 학술동아리 YBIGTA
