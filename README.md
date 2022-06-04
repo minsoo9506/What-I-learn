@@ -1,11 +1,13 @@
 # Now
-### Interest
-- [catchMinor](https://github.com/minsoo9506/catchMinor)
-  - tabular, time series
-  - imbalanced learning
-  - anomaly detection, outlier analysis   
-- Causality
+### Interest  
+- [Causality](https://github.com/minsoo9506/causality-study)
 - ML engineering
+  - [fraud detecion model python package project](https://github.com/minsoo9506/fraudDetection)
+  - [fraud detecion model deployment project](https://github.com/minsoo9506/fraudDetectionDeployment)
+  - airflow
+    - [basic lecture summary](https://minsoo9506.github.io/categories/airflow/)
+  - docker
+- NLP
 
 # Before
 ### Academic Lecture
@@ -25,6 +27,10 @@
 - [Time series study](https://github.com/minsoo9506/time-series-study)
 - [OWOP](https://github.com/minsoo9506/OWOP)
   - ML Paper Reading Study Group
+- [catchMinor](https://github.com/minsoo9506/catchMinor)
+  - tabular, time series
+  - imbalanced learning
+  - anomaly detection, outlier analysis 
 
 ### Machine Learning Fundamental
 - [(Lecture) Udemy](https://github.com/minsoo9506/udemy_FE_FS) : feature engineering, selection
@@ -55,7 +61,7 @@
   - christophM gitbook
   - (Book) XAI 실행가능한 인공지능, 인공지능을 해부하다 (안재현)
 
-### [Development](https://github.com/minsoo9506/web-dev-study)
+### [Web Development](https://github.com/minsoo9506/web-dev-study)
   - Clone Coding (html, css, Javascript)
   - Flask, NodeJs
 
