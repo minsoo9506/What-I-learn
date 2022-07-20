@@ -6,8 +6,8 @@
   - [fraud detecion model python package project](https://github.com/minsoo9506/fraudDetection)
   - [fraud detecion model deployment project](https://github.com/minsoo9506/fraudDetectionDeployment)
   - airflow
-    - [basic lecture summary](https://minsoo9506.github.io/categories/airflow/)
   - docker
+  - linux command, shell script
 - NLP
 
 # Before
