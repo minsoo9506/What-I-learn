@@ -1,6 +1,7 @@
 # Now
 ### Interest  
 - [Causality](https://github.com/minsoo9506/causality-study)
+- Graph (cs224w)
 - ML engineering
   - [fraud detecion model python package project](https://github.com/minsoo9506/fraudDetection)
   - [fraud detecion model deployment project](https://github.com/minsoo9506/fraudDetectionDeployment)
