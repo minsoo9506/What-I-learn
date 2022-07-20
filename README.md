@@ -3,11 +3,10 @@
 - [Causality](https://github.com/minsoo9506/causality-study)
 - Graph (cs224w)
 - ML engineering
-  - [fraud detecion model python package project](https://github.com/minsoo9506/fraudDetection)
-  - [fraud detecion model deployment project](https://github.com/minsoo9506/fraudDetectionDeployment)
-  - airflow
-  - docker
-  - linux command, shell script
+  - [fraud detecion model python package project](https://github.com/minsoo9506/fraudDetection) (udemy lecture, project)
+  - airflow (udemy lecture)
+  - docker (udemy lecture)
+  - linux command, shell script (udemy lecture, youtube)
 - NLP
 
 # Before
