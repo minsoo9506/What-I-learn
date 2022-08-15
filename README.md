@@ -1,7 +1,10 @@
 # Now
-## Interest  
+## Interest
+### [catchMinor](https://github.com/minsoo9506/catchMinor)
+- Imbalanced Learning, Anomaly Detection (tabular, time series)
 ### [Causality](https://github.com/minsoo9506/causality-study) `ing`
-### [Graph (cs224w)](https://github.com/minsoo9506/cs224w-study) `ing`
+### [GNN](https://github.com/minsoo9506/cs224w-study) `ing`
+- cs224w
 ### ML engineering
 - study
   - [airflow](https://minsoo9506.github.io/categories/airflow/) 
