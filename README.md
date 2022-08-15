@@ -1,13 +1,20 @@
 # Now
-### Interest  
-- [Causality](https://github.com/minsoo9506/causality-study)
-- Graph (cs224w)
-- ML engineering
-  - [fraud detecion model python package project](https://github.com/minsoo9506/fraudDetection) (udemy lecture, project)
-  - airflow (udemy lecture)
-  - docker (udemy lecture)
-  - linux command, shell script (udemy lecture, youtube)
-- NLP
+## Interest  
+### [Causality](https://github.com/minsoo9506/causality-study) `ing`
+### [Graph (cs224w)](https://github.com/minsoo9506/cs224w-study) `ing`
+### ML engineering
+- study
+  - [airflow](https://minsoo9506.github.io/categories/airflow/) 
+  - [docker](https://minsoo9506.github.io/categories/docker/)
+  - [linux command](https://minsoo9506.github.io/04-linux-udemy/)
+  - [FSDL 2022](https://github.com/minsoo9506/FSDL2022-study) `ing`
+    - ML-product
+  - CS329S `ing`
+    - ML system design
+- project
+  - [Classification ML model python package project](https://github.com/minsoo9506/fraudDetection)
+  - [BentoML tutorial](https://github.com/minsoo9506/BentoML-model-serving)
+### [NLP](https://github.com/minsoo9506/NLP-study)
 
 # Before
 ### Academic Lecture
