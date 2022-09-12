@@ -1,23 +1,27 @@
 # Now
 ## Interest
-### [catchMinor](https://github.com/minsoo9506/catchMinor)
+### catchMinor
+- [repository](https://github.com/minsoo9506/catchMinor)
 - Imbalanced Learning, Anomaly Detection (tabular, time series)
-### [Causality](https://github.com/minsoo9506/causality-study) `ing`
-### [GNN](https://github.com/minsoo9506/cs224w-study) `ing`
-- cs224w
+### Causality study `ing`
+- [repository](https://github.com/minsoo9506/causality-study)
+### RecSys study `ing`
+- [repository](https://github.com/minsoo9506/RecSys-study)
+
 ### ML engineering
 - study
-  - [airflow](https://minsoo9506.github.io/categories/airflow/) 
-  - [docker](https://minsoo9506.github.io/categories/docker/)
+  - [Airflow basic](https://minsoo9506.github.io/categories/airflow/) 
+  - [Docker basic](https://minsoo9506.github.io/categories/docker/)
   - [linux command](https://minsoo9506.github.io/04-linux-udemy/)
   - [FSDL 2022](https://github.com/minsoo9506/FSDL2022-study) `ing`
-    - ML-product
-  - CS329S `ing`
-    - ML system design
+  - ML system design `ing`
 - project
   - [Classification ML model python package project](https://github.com/minsoo9506/fraudDetection)
   - [BentoML tutorial](https://github.com/minsoo9506/BentoML-model-serving)
-### [NLP](https://github.com/minsoo9506/NLP-study)
+### NLP study
+- [repository](https://github.com/minsoo9506/NLP-study)
+### GNN study
+- [cs224w repository](https://github.com/minsoo9506/cs224w-study)
 
 # Before
 ### Academic Lecture
