@@ -15,7 +15,7 @@
     - [Classification ML model python package project](https://github.com/minsoo9506/fraudDetection)
     - [BentoML tutorial](https://github.com/minsoo9506/BentoML-model-serving)
 - have experience
-  - NLP study[`repository`](https://github.com/minsoo9506/NLP-study)
+  - NLP study [`repository`](https://github.com/minsoo9506/NLP-study)
   - GNN study [`repository`](https://github.com/minsoo9506/cs224w-study)
   - Time Series study [`repository`](https://github.com/minsoo9506/time-series-study)
 # Before
