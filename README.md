@@ -14,10 +14,10 @@
   - project
     - [Classification ML model python package project](https://github.com/minsoo9506/fraudDetection)
     - [BentoML tutorial](https://github.com/minsoo9506/BentoML-model-serving)
-- have experience
-  - NLP study [`repository`](https://github.com/minsoo9506/NLP-study)
-  - GNN study [`repository`](https://github.com/minsoo9506/cs224w-study)
-  - Time Series study [`repository`](https://github.com/minsoo9506/time-series-study)
+### have experience
+- NLP study [`repository`](https://github.com/minsoo9506/NLP-study)
+- GNN study [`repository`](https://github.com/minsoo9506/cs224w-study)
+- Time Series study [`repository`](https://github.com/minsoo9506/time-series-study)
 # Before
 ### Academic Lecture
 - 연세대학교 응용통계학과 학부 수업
