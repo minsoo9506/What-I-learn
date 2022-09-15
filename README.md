@@ -1,12 +1,9 @@
 # Now
 ## Interest
-- catchMinor
-  - [repository](https://github.com/minsoo9506/catchMinor)
+- catchMinor [`repository`](https://github.com/minsoo9506/catchMinor)
   - Imbalanced Learning, Anomaly Detection (tabular, time series)
-- Causality study `ing`
-  - [repository](https://github.com/minsoo9506/causality-study)
-- RecSys study `ing`
-  - [repository](https://github.com/minsoo9506/RecSys-study)
+- Causality study [`repository`](https://github.com/minsoo9506/causality-study) `ing`
+- RecSys study [`repository`](https://github.com/minsoo9506/RecSys-study) `ing`
 - ML engineering
   - study
     - [Airflow basic](https://minsoo9506.github.io/categories/airflow/) 
@@ -17,11 +14,10 @@
   - project
     - [Classification ML model python package project](https://github.com/minsoo9506/fraudDetection)
     - [BentoML tutorial](https://github.com/minsoo9506/BentoML-model-serving)
-- NLP study
-  - [repository](https://github.com/minsoo9506/NLP-study)
-- GNN study
-  - [cs224w repository](https://github.com/minsoo9506/cs224w-study)
-
+- have experience
+  - NLP study[`repository`](https://github.com/minsoo9506/NLP-study)
+  - GNN study [`repository`](https://github.com/minsoo9506/cs224w-study)
+  - Time Series study [`repository`](https://github.com/minsoo9506/time-series-study)
 # Before
 ### Academic Lecture
 - 연세대학교 응용통계학과 학부 수업
