@@ -9,8 +9,7 @@
     - [Airflow basic](https://minsoo9506.github.io/categories/airflow/) 
     - [Docker basic](https://minsoo9506.github.io/categories/docker/)
     - [linux command](https://minsoo9506.github.io/04-linux-udemy/)
-    - [FSDL 2022](https://github.com/minsoo9506/FSDL2022-study) `ing`
-    - ML system design `soon`
+    - [FSDL 2022](https://github.com/minsoo9506/FSDL2022-study)
   - project
     - [Classification ML model python package project](https://github.com/minsoo9506/fraudDetection)
     - [BentoML tutorial](https://github.com/minsoo9506/BentoML-model-serving)
