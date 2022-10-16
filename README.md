@@ -1,6 +1,6 @@
 # Now
 ## Interest
-- catchMinor [`repository`](https://github.com/minsoo9506/catchMinor)
+- catchMinor [`repository`](https://github.com/minsoo9506/catchMinor) `ing`
   - Imbalanced Learning, Anomaly Detection (tabular, time series)
 - Causality study [`repository`](https://github.com/minsoo9506/causality-study) `ing`
 - RecSys study [`repository`](https://github.com/minsoo9506/RecSys-study) `ing`
