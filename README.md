@@ -4,15 +4,7 @@
   - Imbalanced Learning, Anomaly Detection (tabular, time series)
 - Causality study [`repository`](https://github.com/minsoo9506/causality-study) `ing`
 - RecSys study [`repository`](https://github.com/minsoo9506/RecSys-study) `ing`
-- ML engineering
-  - study
-    - [Airflow basic](https://minsoo9506.github.io/categories/airflow/) 
-    - [Docker basic](https://minsoo9506.github.io/categories/docker/)
-    - [linux command](https://minsoo9506.github.io/04-linux-udemy/)
-    - [FSDL 2022](https://github.com/minsoo9506/FSDL2022-study)
-  - project
-    - [Classification ML model python package project](https://github.com/minsoo9506/fraudDetection)
-    - [BentoML tutorial](https://github.com/minsoo9506/BentoML-model-serving)
+- ML engineering study [`repository`](https://github.com/minsoo9506/ML-engineering-study)
 ### have experience
 - NLP study [`repository`](https://github.com/minsoo9506/NLP-study)
 - GNN study [`repository`](https://github.com/minsoo9506/cs224w-study)
